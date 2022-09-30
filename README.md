@@ -1,14 +1,14 @@
 # IBM-Project-3638-1664352671
-<b>Inventory Managment System for Retailers</b>
+<b>Inventory Managment System for Retailers:</b>
 <br><br>
 <img src="https://www.creativefabrica.com/wp-content/uploads/2021/03/09/Flat-design-of-inventory-control-concept-Graphics-9387114-1-1-580x386.jpg" alt="Broken image"><br><br>
-Software Required:
+<b>Software Required:</b>
 Python, Flask , Docker
 
-System Minimum Requirements:
+<b>System Minimum Requirements:</b>
 8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
 
-Retail inventory management is the process of ensuring you carry merchandise that shoppers want, with neither too little nor too much on hand. By managing inventory, retailers meet customer demand without running out of stock or carrying excess supply.
+<b>Retail inventory management is the process of ensuring you carry merchandise that shoppers want, with neither too little nor too much on hand. By managing inventory, retailers meet customer demand without running out of stock or carrying excess supply.
 
 In practice, effective retail inventory management results in lower costs and a better understanding of sales patterns. Retail inventory management tools and methods give retailers more information on which to run their businesses. Applications have been developed to help retailers track and manage stocks related to their own products. The System will ask retailers to create their accounts by providing essential details. Retailers can access their accounts by logging into the application.
 
@@ -16,7 +16,7 @@ Once retailers successfully log in to the application they can update their inve
 
 
 
-Technical Architecture:
+<b>Technical Architecture:</b>
 
 
 ![image](https://user-images.githubusercontent.com/66524865/190607263-e79215b0-7a7c-4476-84d7-239369d92b4d.png)
