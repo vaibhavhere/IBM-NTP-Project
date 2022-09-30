@@ -1,6 +1,6 @@
-# IBM-Project-1269-1658382470
+# IBM-Project-3638-1664352671
 Inventory Managment System for Retailers
-
+<img src="https://www.creativefabrica.com/wp-content/uploads/2021/03/09/Flat-design-of-inventory-control-concept-Graphics-9387114-1-1-580x386.jpg" alt="Broken image">
 Software Required:
 Python, Flask , Docker
 
