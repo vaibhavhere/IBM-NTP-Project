@@ -12,7 +12,7 @@
 
 4. Yogesh K    - 190801100
 
-# 🏮Demonstration Video Link🏮
+#Demonstration Video Link
 
 📽️ https://vimeo.com/771310307 📽️
 
