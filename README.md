@@ -29,9 +29,18 @@ In practice, effective retail inventory management results in lower costs and a 
 
 Once retailers successfully log in to the application they can update their inventory details, also users will be able to add new stock by submitting essential details related to the stock. They can view details of the current inventory. The System will automatically send an email alert to the retailers if there is no stock found in their accounts. So that they can order new stock.
 
+# Data Flow diagram
+
+![image](https://user-images.githubusercontent.com/113575444/201771356-9e4612a9-b80b-4859-a45e-4ba404cd6160.png)
+![image](https://user-images.githubusercontent.com/113575444/201771392-e9cfc729-2f47-41d1-99cd-ca7e4c75865f.png)
+
+# Workflow and Technical overview
+
+![image](https://user-images.githubusercontent.com/113575444/201771505-bcb995f2-8462-4452-9027-b4345c652176.png)
+![image](https://user-images.githubusercontent.com/113575444/201771529-45b32672-6ce7-447e-b7c3-dd06b1a7ef85.png)
 
 
-# Technical Architecture!
+# Technical Architecture
 ![image](https://user-images.githubusercontent.com/66524865/190607263-e79215b0-7a7c-4476-84d7-239369d92b4d.png)
 
 # Proposed System Data Flow Diagram
