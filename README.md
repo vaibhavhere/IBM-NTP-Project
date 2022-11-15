@@ -1,6 +1,21 @@
 # IBM-Project-3638-1664352671
 <b>Inventory Managment System for Retailers:</b>
 <br><br>
+
+**Team members:**
+
+1. Vaibhav Jain (TEAM LEAD)  - 190801097
+
+2. Sansai Kumar K S     - 190801071
+
+3. Yogesh K R - 190801101
+
+4. Yogesh K    - 190801100
+
+# 🏮Demonstration Video Link🏮
+
+📽️ https://vimeo.com/771310307 📽️
+
 <img src="https://www.creativefabrica.com/wp-content/uploads/2021/03/09/Flat-design-of-inventory-control-concept-Graphics-9387114-1-1-580x386.jpg" alt="Broken image"><br><br>
 <b>Software Required:</b>
 Python, Flask , Docker
@@ -16,11 +31,11 @@ Once retailers successfully log in to the application they can update their inve
 
 
 
-<b>Technical Architecture:</b>
-
-
+# Technical Architecture!
 ![image](https://user-images.githubusercontent.com/66524865/190607263-e79215b0-7a7c-4476-84d7-239369d92b4d.png)
 
+# Proposed System Data Flow Diagram
+![image](https://user-images.githubusercontent.com/66524865/201616028-aa550c83-b69d-4ad4-b6a6-af2381b08bea.png)
 
 
 
