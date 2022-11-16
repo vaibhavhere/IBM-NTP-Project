@@ -17,8 +17,8 @@
 
 # 🔥 http://159.122.183.244:32603/ 🔥
 
+![Inventory-Management](https://user-images.githubusercontent.com/82175956/202244478-24a9d42d-1656-4f43-b65e-aa01318c0df2.jpg)
 
-<center><img src="https://www.creativefabrica.com/wp-content/uploads/2021/03/09/Flat-design-of-inventory-control-concept-Graphics-9387114-1-1-580x386.jpg" alt="Broken image"><center><br><br>
 <b>Software Required:</b>
 Python, Flask , Docker
 
