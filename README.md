@@ -1,6 +1,7 @@
 # IBM-Project-3638-1664352671
 <b>Inventory Managment System for Retailers:</b>
 <br><br>
+![Untitled Project](https://user-images.githubusercontent.com/82175956/202241421-edf026df-e055-469d-98d5-51c6f8511052.jpg)
 
 **Team members:**
 
