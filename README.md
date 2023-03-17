@@ -1,7 +1,8 @@
 # IBM-Project-3638-1664352671
 # Inventory Managment System for Retailers
 <br><br>
-![Untitled Project](https://user-images.githubusercontent.com/82175956/202241421-edf026df-e055-469d-98d5-51c6f8511052.jpg)
+![1](https://user-images.githubusercontent.com/82175956/225970314-f3dd8e2d-5d3d-4829-bb48-1dc08e2fd7d3.jpg)
+
 
 **Team members:**
 1. Vaibhav Jain (TEAM LEAD)  - 190801097
