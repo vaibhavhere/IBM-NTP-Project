@@ -1,12 +1,7 @@
 # IBM-Project-3638-1664352671
 # Inventory Managment System for Retailers
 <a href="https://courses.ictacademy.skillsnetwork.site/certificates/06a35b59f5d84a808474b7a43d3f755c"><img width="664" alt="cert" src="https://user-images.githubusercontent.com/82175956/231721594-e7a95265-61c2-48f4-893c-031e577a30a9.png"></a>
-
-<br><br>
 ![1](https://user-images.githubusercontent.com/82175956/225970314-f3dd8e2d-5d3d-4829-bb48-1dc08e2fd7d3.jpg)
-
-<br>
-
 ## Team members:
 <ol>
 <li>Vaibhav Jain (TEAM LEAD)  - 190801097
